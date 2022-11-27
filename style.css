@@ -1,0 +1,78 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style-type: none;
+  padding: 1rem;
+  font-size: 1.2rem;
+  
+}
+
+.nav1{
+  margin:auto;
+  width: 500px;
+}
+.nav2{
+  width: 800px;
+  margin: 5rem auto;
+} 
+.card-img{
+  border: 2px solid red;
+  background-size: contain ;
+  height: 600px;
+}
+.card{
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.straw{
+  position: relative;
+
+  
+}
+.straw1{
+  position: absolute;
+  bottom: 2rem;
+  text-align: center;
+}
+.footer{
+  text-align: center;
+  /* border: 2px solid red; */
+  padding: 10rem;
+  width: 500px;
+  margin: auto;
+  
+  background-color:#0DCAF0;
+}
+
+.lix{
+width: 500px;
+margin: 2rem;
+padding: 1rem;
+  color: white;
+   cursor: pointer;
+   font-size: 2rem;
+}
+.lix2{
+  text-align: center;
+  font-size: 8rem;
+  width:50px;
+  margin: auto;
+  /* border: 2px solid red; */
+  cursor: pointer;
+
+
+}
+.img1,.img2,.img3,.img4{
+  /* border: 2px solid red; */
+  width: 102%;
+}
+
+
+
+
+
+
